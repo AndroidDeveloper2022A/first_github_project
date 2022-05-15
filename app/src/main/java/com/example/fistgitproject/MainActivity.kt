@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "toast number1", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "toast number2", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "toast number3", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "i am in develop branch", Toast.LENGTH_SHORT).show()
     }
 }
